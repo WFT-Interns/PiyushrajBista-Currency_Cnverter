@@ -12,10 +12,9 @@ function SelectOptions() {
     <>
       <FormControl sx={{ width: "200px", marginRight: "80px" }}>
         <InputLabel id="select-base-currency">Select Base Currency</InputLabel>
-        <Select
-          labelId="select-autowidth-label"
-          label="Select Base Cuurency"
-        ></Select>
+        <Select labelId="select-autowidth-label" label="Select Base Cuurency">
+          <MenuItem></MenuItem>
+        </Select>
         <Button sx={{ marginTop: "20px" }} variant="contained">
           Submit
         </Button>
