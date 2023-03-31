@@ -5,9 +5,16 @@
 | Technologies Used | Justification          |
 | ----------------- | ---------------------- |
 | React             | Front End Developmnent |
-| MUI               | UI Library             |
+| MUI Core          | UI Library             |
 | Axios             | Http Request           |
 | React Query       | API Call               |
+| MUI Data Grid     | Table Data             |
+
+## API URL
+
+### Currency Exchange Rate
+
+https://v6.exchangerate-api.com/v6
 
 ## Instructions
 
